@@ -1,6 +1,6 @@
 # I'm Muhammad Adeel 👋
 
-🎓 Computer Science Graduate | 📊 Data Analyst | 🤖 AI/ML Enthusiast
+🎓 Computer Science Graduate | 📊 jr Data Scientist | 🤖 AI/ML Enthusiast
 
 I build data-driven solutions and machine learning systems — from medical imaging models to assistive AI tools. Currently working as a Data Analyst and diving deeper into applied ML/AI research.
 
