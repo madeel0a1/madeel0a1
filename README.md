@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Adeel 👋
+# Hi, I'm Muhammad Adeel
 
 ### 🤖 AI/ML Engineer | Generative AI • AI Agents • RAG • LLM Applications
 
