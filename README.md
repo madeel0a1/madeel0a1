@@ -1,4 +1,4 @@
-# Hi, I'm Muhammad Adeel
+# Hi, I'm Muhammad Adeel 👋
 
 ### 🤖 AI/ML Engineer | Generative AI • AI Agents • RAG • LLM Applications
 
@@ -18,14 +18,11 @@ I don't build AI because it's trending — I look for a real workflow problem, u
 
 ### 💼 Experience
 
-**Generative AI Developer — YMCoding** *(Current)*
-Building LLM-powered application features, contributing to AI Agent and RAG development, and integrating APIs into AI application backends.
+**AI Engineer — QMH Technologies**, Rawalpindi *(Sep 2025 – Aug 2026)*
+Building solutions around LLMs and generative AI frameworks including LangChain and the OpenAI API. Building and integrating RAG pipelines — ingestion, chunking, embedding generation, vector retrieval — to ground LLM outputs in company data, and developing tool-calling AI agents to automate multi-step workflows.
 
-**Data Analyst — Positive Solutions**, Wah Cantt *(Apr 2026 – Jul 2026)*
-Built dashboards, optimized SQL queries, and automated data pipelines with Python.
-
-**Python Development Trainee — NAVTTC**, Islamabad *(Oct 2025 – Mar 2026)*
-Hands-on ML model development using NumPy, Pandas, and end-to-end AI/ML workflows.
+**AI Engineer Intern — QMH Technologies**, Rawalpindi *(Jul 2025 – Sep 2025)*
+Trained in core AI/ML concepts, developing and testing models with Python, NumPy and Pandas, and exploring generative AI fundamentals including LLMs and prompt engineering.
 
 ---
 
